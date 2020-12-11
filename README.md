@@ -17,10 +17,6 @@ N'hésitez pas à échanger le/la _Driver_ et l'_Observer_. Pour cela, le/la _Dr
 
 Le repo de base contient uniquement les images : c'est à vous de créer l'arborescence de fichiers et dossiers ! 🤓
 
-## Environnement PairProgramming
-
-Pour rappel, vous pouvez utiliser les différents outils suivants pour mettre en place du PairProgramming à distance :  
-https://github.com/O-clock-Alumni/fiches-recap/blob/master/team-work/pair-programming.md
 
 ## Charte
 
