@@ -1,5 +1,4 @@
-# Challenge Caméléons : Collaborons sur un seul écran !
-
+# Challenge Caméléons !
 ## Objectif
 
 On continue de travailler en équipe, et toujours en [Pair-Programming](https://fr.wikipedia.org/wiki/Programmation_en_bin%C3%B4me).
